@@ -1,0 +1,21 @@
+Leis seo tá cló Gaelach nua darb ainm Gadelica. Cloíonn sé le múnla na gcéad chlónna Gaelacha
+údaracha ón seachtú haois déag ach amháin gur tugadh na litreacha chun rialtachta, go háirithe na
+ceannlitreacha, agus gur cuireadh na litreacha breise leis, is é sin na litreacha nach n-úsáidtear de
+ghnáth i scríobh na Gaeilge.
+Cló Opentype is ea é; ba chóir go n-oibreodh sé i gceart ar ríomhairí GNU/Linux, Macintosh agus
+Windows ach méarchlár oiriúnach a roghnú. Tá an cló ionchódaithe de réir Unicode.
+Dáileadh
+Tá an cló seo á dháileadh saor in aisce, ceadaítear é a úsáid gan bhac, agus ceadaítear é a dháileadh
+a thuilleadh. Fanann an cóipcheart, áfach, leis an té a chruthaigh é, agus dáiltear é ar choinníoll go
+nglacfaidh tú leis na coinníollacha seo a leanas: nach ndéanfaidh tú an cló a athrú ar bhealach ar
+bith ná a athainmniú; nach dtabharfaidh tú iarracht ar íocaíocht ar bith a áil air; agus nach dtairgfidh tú é i leith is gur d’obair féin nó obair aon duine eile é seachas an té a chruthaigh é.
+Nóta pearsanta
+Rinne mé an cló seo toisc go raibh cló Gaelach de dhíth orm agus nach raibh mé sásta (ar chúiseanna éagsúla) le ceann ar bith de na clónna Gaelacha a bhí ar fáil cheana. Rinne mé freisin é in
+ómós dár sinsir, go háirithe dóibh siúd a streachail leis na chéad chlónna Gaelacha a dhéanamh ach
+a bhfuil a ndúchas agus a dteanga tréigthe anois.
+Go mbaine tú tairbhe agus taitneamh as.
+Séamas Ó Brógáin
+Baile an Diosualaigh
+Co. Bhaile Átha Cliath
+sob@iol.ie
+Feabhra 2007
